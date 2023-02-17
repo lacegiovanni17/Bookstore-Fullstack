@@ -1,7 +1,7 @@
 # Bookstore-Fullstack
 A bookstore fullstack project working with CRUD
 
-# DK-s-Blog-Website
+# HENLYBOOK bookstore 
 
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
@@ -12,6 +12,10 @@ A bookstore fullstack project working with CRUD
 
 ![Screenshot 2023-02-17 at 10 40 56](https://user-images.githubusercontent.com/30509335/219609765-115d48ca-b406-4a86-b131-3f6fa06a4b8c.png)
 
+
+## Docker Image
+* https://hub.docker.com/r/chuddik/week-6-task-lacegiovanni17
+ 
 
 ## Technologies Used
 * CSS
