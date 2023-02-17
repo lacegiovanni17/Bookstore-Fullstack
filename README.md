@@ -34,8 +34,8 @@ A bookstore fullstack project working with CRUD
 1. Started the app with the application generator tool, express-generator, to quickly create an application skeleton. ran the command `npx express-generator` to create app skeleton.
 
 2. Multiple routes are in place for this webapp
- - access the 
- - access the 
+ - access the sign-up page with the route http://localhost:3000/users/createUser
+ - access the login page with the route http://localhost:3000/users/login
 
 3. All implementations was done using es6.
 
