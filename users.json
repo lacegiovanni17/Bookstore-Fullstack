@@ -1,0 +1,18 @@
+[
+  {
+    "id": "f212003a-9d3d-43c0-939a-a5dd9e032e86",
+    "UserName": "Nuru8889",
+    "Email": "nurudeen9@gmail.com",
+    "password": "$2b$10$4KpF1h8.9DwGkIyaLxv1lu3hZ4lEjolvjhnyloOSicbj6jmaOFCMK",
+    "createdAt": "2023-01-24T19:08:24.474Z",
+    "updatedAt": "2023-01-24T19:08:24.474Z"
+  },
+  {
+    "id": "d1543637-e61d-47bd-830e-98fb5c4800d6",
+    "UserName": "emmanuel",
+    "Email": "chidike.henry@gmail.com",
+    "password": "$2b$10$3hL07vlKHKBiugdD8hlcnO7gM8SCW.qqrSfqKVFR5sUfqzmekvMfq",
+    "createdAt": "2023-01-31T01:02:55.015Z",
+    "updatedAt": "2023-01-31T01:02:55.015Z"
+  }
+]
