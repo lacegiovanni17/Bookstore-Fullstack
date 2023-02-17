@@ -1,0 +1,28 @@
+[
+  {
+    "Title": "A Promised Land",
+    "Author": "Barack obama",
+    "datePublished": "2020-0-12T19: 0455.455z",
+    "Description": "A Promised Land is a memoir by Barack Obama, the 44th President of the United States from 2009 to 2017. Published on November 17, 2020, it  is the first of a planned two - volume series",
+    "pageCount": 768,
+    "Genre": "autobiography",
+    "bookId": 1,
+    "Publisher": "Crown"
+  },
+  {
+    "id": "7b2464a0-e642-4cfc-b61e-42afde0b7d72",
+    "Title": "emmanuel 12",
+    "Author": "olokor",
+    "datePublished": "2023-01-04",
+    "Description": "just testing",
+    "pageCount": "23",
+    "Genre": "fiction",
+    "Publisher": "bird man",
+    "createdat": "2023-01-31T01:10:35.863Z",
+    "updatedat": "2023-01-31T01:10:35.863Z",
+    "bookID": "7b2464a0-e642-4cfc-b61e-42afde0b7d72",
+    "genre": "fiction",
+    "publisher": "bird man",
+    "updatedAt": "2023-01-31T01:23:33.730Z"
+  }
+]
